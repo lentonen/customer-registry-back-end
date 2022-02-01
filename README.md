@@ -4,6 +4,6 @@ Includes repositories for customers and companies. Possibility to download custo
 
 Run locally `mvn spring-boot:run`
 
-See live [here](https://registry-back-end.herokuapp.com/registry).  
+See live in Heroku [here](https://registry-back-end.herokuapp.com/registry).  
 
-See live front-end using this backend [here](https://xenodochial-kepler-957fa3.netlify.app/)
+See live front-end in Netify using this backend [here](https://xenodochial-kepler-957fa3.netlify.app/)
