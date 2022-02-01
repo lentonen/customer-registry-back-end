@@ -1,2 +1,4 @@
-"# registry-back-end" 
-"# customer-registry-back-end" 
+# registry-back-end
+
+Run locally `mvn spring-boot:run`
+
